@@ -5,7 +5,7 @@
 
   <groupId>com.pythian.opentsdb</groupId>
   <artifactId>asyncbigtable</artifactId>
-  <version>0.2.1-SNAPSHOT</version>
+  <version>0.2.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Async Bigtable library</name>
@@ -222,8 +222,8 @@
 
     <dependency>
       <groupId>com.google.cloud.bigtable</groupId>
-      <artifactId>bigtable-hbase-1.0</artifactId>
-      <version>0.2.2-20151029.111903-12</version>
+      <artifactId>bigtable-hbase-1.2</artifactId>
+      <version>0.9.4</version>
     </dependency>
 
     <dependency>
